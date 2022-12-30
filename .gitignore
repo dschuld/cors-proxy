@@ -1,0 +1,6 @@
+# Project exclude paths
+/.aws-sam/
+/HelloWorldFunction/.gradle/
+/HelloWorldFunction/build/
+/HelloWorldFunction/build/classes/java/main/
+/HelloWorldFunction/build/classes/java/test/
